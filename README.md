@@ -1,1 +1,1 @@
-# Instamojo-Payment-Gateway
+# payment_gateway
